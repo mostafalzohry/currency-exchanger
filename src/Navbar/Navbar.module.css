@@ -1,0 +1,26 @@
+.NavbarButton{
+    background-color: rgba(0,0,0,0.0);
+    /* height: 100%; */
+    border-radius: 3px ;
+    border: 1px solid white;
+    color: #fff !important;
+    padding: 3px 10px ;
+
+}
+.parent{
+    background-color: #2f2525;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    border: 1px white solid;
+    padding: 20px;
+}
+.Logo{
+    height: 50px;
+    
+}
+.NavbarLink{
+    color: #fff !important;
+    text-decoration: none !important;
+}

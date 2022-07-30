@@ -1,0 +1,16 @@
+.Parent {
+    box-sizing: border-box;
+    padding: 50px 0px ;
+    border: 1px solid #fff ;
+}
+
+.Item {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 30%;
+    margin: 10px;
+    background-color: #2f2525;
+    text-align: center;
+    border-radius: 3px ;
+    border: 1px solid #fff ;
+}
